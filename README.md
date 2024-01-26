@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">C++ Developer</h3><br>
+<h3 align="center">C++ Game Developer</h3><br>
 
 <p align="center">
   <a href="https://github.com/Maybe707?tab=repositories">
